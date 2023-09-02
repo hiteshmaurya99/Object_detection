@@ -18,9 +18,9 @@ The hyperparameters are regulated by train params dict which feed into the train
 I trained my model for a mere 10 epochs on 1742 images of plastic bottles.
 All that left was extraction of best weights and load it up and run predictions real life images.
 Here are he results (for a 10 epoch trianing i got pretty good result and acceptable map).
-![model predictions on real life images](https://user-images.githubusercontent.com/26987970/265217583-c9e0466f-5562-4e78-995d-14d076bcf398.png)
+![model predictions on real life image](https://user-images.githubusercontent.com/26987970/265217583-c9e0466f-5562-4e78-995d-14d076bcf398.png)
 
-(url)
+
 
 
 
