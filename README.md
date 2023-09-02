@@ -10,7 +10,7 @@ train_data.dataset.transforms
 ### visualizing data after transformation
 train_data.dataset.plot()
 The number and name of classes here is only one which is 'bottle'
-![sample of training data](URL)
+![sample of training data](https://user-images.githubusercontent.com/26987970/265216951-03b1fb57-f86b-424d-93cf-c38489369572.png)
 
 After this i just needed to import the models and using models.get() method along with specifying some arguments like MODEL_ARCH, num_classes=len(dataset_params['classes']), pretrained_weights="coco".
 For training import Trainer which contians all the trining functionality, i created its instance and called train method ......taining begins.
